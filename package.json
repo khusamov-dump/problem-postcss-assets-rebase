@@ -1,0 +1,17 @@
+{
+  "name": "problem-postcss-assets-rebase",
+  "description": "https://github.com/devex-web-frontend/postcss-assets-rebase/issues/8",
+  "author": "Khusamov Sukhrob <khusamov@yandex.ru>",
+  "version": "0.0.1",
+  "license": "GPL-3.0",
+  "engines": {
+    "node": "~4.1.1"
+  },
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-concat-css": "^2.2.0",
+    "gulp-postcss": "^6.0.1",
+    "postcss-assets-rebase": "^0.4.0",
+    "postcss-copy-assets": "^0.3.0"
+  }
+}
